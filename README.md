@@ -14,14 +14,22 @@ Java + golang + mysql + hadoop + zookeeper + redis
 - [图书管理系统](https://github.com/lishinho/LMS1.0)
 - [分布式秒杀系统](https://github.com/lishinho/dis-seckill)
 - [植物大战僵尸游戏](https://github.com/lishinho/PVZ_windowsAPI)
+
 and so on...
 
 ### 🔭 目前状态
 
-![上海星环科技](http://www.warpcloud.cn/#/home)后端开发
+[上海星环科技](http://www.warpcloud.cn/#/home)后端开发
 
+### 😄 其他爱好
 
-### 联系信息
+英语，日语N2
+
+篮球，足球
+
+拍摄，逛街
+
+### 📫 联系信息
 
 `534240720 at qq.com`
 
