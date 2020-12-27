@@ -5,6 +5,8 @@
 - [个人博客](https://blog.csdn.net/wannuoge4766)
 - [个人网站](https://lishinho.top/)
 
+微信公众号 :`lishinho杂货铺`
+
 Java + golang + mysql + hadoop + zookeeper + redis
 
 ### 🤔 一些项目
@@ -19,7 +21,9 @@ and so on...
 
 ### 🔭 目前状态
 
-[上海星环科技](http://www.warpcloud.cn/#/home)后端开发
+[Bilibili](https://www.bilibili.com)主站后端开发
+
+（可以找我内推XD）
 
 ### 😄 其他爱好
 
