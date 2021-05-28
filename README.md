@@ -39,5 +39,5 @@ and so on...
 
 `lzb_include at wechat`
 
-
+note：现在专业给trending的项目提bug
 
