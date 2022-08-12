@@ -5,7 +5,7 @@
 - [个人博客](https://blog.csdn.net/wannuoge4766)
 - [个人网站](https://lishinho.top/)
 
-微信公众号 :`lishinho杂货铺`
+微信公众号 :`lishinho技术杂货铺`
 
 Java + golang + mysql + hadoop + zookeeper + redis
 
