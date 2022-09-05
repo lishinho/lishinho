@@ -2,10 +2,11 @@
 
 ### 🌱 我的技术栈
 
+微信公众号 :`lishinho技术杂货铺`
+
 - [个人博客](https://blog.csdn.net/wannuoge4766)
 - [个人网站](https://lishinho.top/)
 
-微信公众号 :`lishinho技术杂货铺`
 
 Java + golang + mysql + hadoop + zookeeper + redis
 
@@ -21,7 +22,7 @@ and so on...
 
 ### 🔭 目前状态
 
-后端开发
+后端开发:bilibili
 
 （可以找我内推XD）
 
