@@ -4,15 +4,16 @@
 
 微信公众号 :`lishinho技术杂货铺`
 
-- [个人博客](https://blog.csdn.net/wannuoge4766)
+- [个人笔记](https://blog.csdn.net/wannuoge4766)
 - [个人网站](https://lishinho.top/)
 
 
-Java + golang + mysql + hadoop + zookeeper + redis
+golang + mysql + Java + 大数据 + redis 
 
 ### 🤔 一些项目
 
 - [技术笔记](https://github.com/lishinho/algorithm-coding)
+- [算法笔记](https://github.com/lishinho/golang-algorithm-cheetsheet)
 - [手工web系统](https://github.com/lishinho/SCU_DB_WebSystemByJsp)
 - [图书管理系统](https://github.com/lishinho/LMS1.0)
 - [分布式秒杀系统](https://github.com/lishinho/dis-seckill)
