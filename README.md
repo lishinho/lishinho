@@ -1,4 +1,4 @@
-<h1 align="center">👋 你好，我是李镇邦 (lishinho)</h1>
+<h1 align="center">👋 你好，我是lishinho</h1>
 
 <p align="center">
   <a href="https://lishinho.top/"><img src="https://img.shields.io/badge/个人网站-lishinho.top-616ff9.svg?style=flat-square" alt="个人网站"></a>
