@@ -34,6 +34,7 @@
 - **广告投放核心系统**：搭建面向用户增长的广告投放架构，设计熔断/降级/重试机制，核心请求延迟 < 50ms，支撑 10 万+ 企业客户稳定投放，ROAS 提升 15%
 - **外投业务系统（集采/白盒/混投）**：主导海外多平台流量整合架构设计，适配字节/UC/快手等外部平台，数据同步延迟控制在 1min 内，外投 GMV 提升 20%
 - **Serverless 广告网关**：构建统一流量接入网关，封装路由/限流/灰度能力，支撑 10 亿+ 日请求转发，资源利用率优化 45%
+- **外投AI智能系统（AI优化师+AI-Native项目管理平台）**：完成多源媒体信号统一接入与聚合，构建“外投全局感知视图”；基于ATA“算法+LLM双轨”架构，支持自动调价、预算分配、起量控制等核心能力；实现托管账户覆盖≥200个，达成CPA达标率≥95%、人工干预率≤20%；搭建AI辅助SDD流程，策略模型Serverless化部署，策略生效延迟≤5分钟；集成策略A/B实验、版本管理、Shapley归因一体化能力，平台可用性≥99.9%；推进进退场规则实时化，优化RTA流程。成果：外投策略迭代效率提升2倍，托管账户运营效率提升50%，跨团队协作成本降低30%，成为外投业务核心增长引擎。
 
 #### 哔哩哔哩 | Go 研发工程师 | 2020.12 - 2023.04
 - **主站 C 端核心网关**：优化高并发网关性能，接口延迟从 80ms 降至 60ms，支撑 S11/春晚等峰值场景 99.99% 可用性，QPS 承载能力提升 30%
@@ -44,6 +45,8 @@
 - **Hadoop 生态 Kerberos 鉴权系统**：构建大数据集群统一认证体系，支撑 5000+ 节点集群，认证延迟 < 10ms
 
 ### 📖 技术沉淀与开源项目
+- [DBSearchAccel](https://github.com/lishinho/DBSearchAccel)： 数据库搜索加速引擎
+- [stockScience](https://github.com/lishinho/stockScience)：- 股票科学分析系统
 - [algorithm-coding](https://github.com/lishinho/algorithm-coding)：覆盖主流算法题型，附详细解题思路与代码实现
 - [golang-algorithm-cheetsheet](https://github.com/lishinho/golang-algorithm-cheetsheet)：Golang 版算法模板，适配面试/工程场景
 - [SCU_DB_WebSystemByJsp](https://github.com/lishinho/SCU_DB_WebSystemByJsp)：从 0 到 1 实现的 Web 系统实战项目
